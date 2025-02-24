@@ -1,4 +1,4 @@
-![Telecom Customer Churn Dashboard_1_page-0001](https://github.com/user-attachments/assets/ff9c0ff5-f1a9-4508-a919-22f58e50f85f)# PowerBI
+PowerBI
 
 ![Telecom Customer Churn Dashboard_1_page-0001](https://github.com/user-attachments/assets/e7d53acf-1efe-479e-9b1d-833fa8adb294)
 
